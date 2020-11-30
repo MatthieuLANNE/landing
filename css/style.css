@@ -1,0 +1,40 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	text-align: justify;
+	margin: 0px;
+	background-color: #222831
+}
+
+h1{
+	font-family: 'Avenir', sans-serif;
+	font-size: 40px;
+	text-align: center;
+}
+
+h2{
+	color : #eeeeee;
+	font-family: "Avenir", sans-serif;
+}
+
+h3{
+	color : #eeeeee;
+	font-family: "Montserrat", sans-serif;
+	font-size: 15px;
+}
+
+a{
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	font-size: 20px;
+	text-align: justify;
+	margin: 0px;
+	text-decoration: none;
+}
+

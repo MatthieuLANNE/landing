@@ -1,0 +1,44 @@
+.card-gray{
+	background: #393e46;
+	font-family: "Avenir";
+	color: #eeeeee;
+	padding: 20px;
+	width: 400px;
+	margin: 50px auto;
+	box-shadow : 0px 7px 30px rgb(0,0,0,0.4);
+	border-radius: 6px;
+	display: flex;
+	align-items: center;
+	font-weight: bold;
+	padding-left: 10px;
+	justify-content: space-between;
+}
+
+.card-inline{
+	display: flex;
+	align-items: center;
+	padding-left: 10px;
+	justify-content: space-between;
+}
+
+.card-menu{
+	background-color: black;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+#card-footer{
+	background-color: black;
+	display : flex;
+	width: 400px;
+	align-items: center;
+	justify-content: space-between;
+}
+
+#footer-organizer{
+	background-color: black;
+	align-items: center;
+	text-align: center;
+	justify-content: space-between;
+}
